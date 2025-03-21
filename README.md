@@ -1,3 +1,3 @@
 # Practice Git and GitHub
 
-Continue...
+This project only for Git and Github practice.
